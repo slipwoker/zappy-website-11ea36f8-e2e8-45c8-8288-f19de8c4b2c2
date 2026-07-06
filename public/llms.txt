@@ -1,0 +1,86 @@
+# עדן מלכה משרד עורכי דין — Generative Engine Optimization Map
+
+> A law firm based in Herzliya, Israel, specializing in real estate law. The practice focuses on property-related legal matters, serving clients in the Herzliya area and potentially the broader central Israel region. The brand carries a professional, trustworthy, and authoritative tone typical of legal services.
+
+---
+
+## Pages
+
+### בית
+https://-11ea36f8.zappy5.app
+מחפשים שירותים משפטיים מקדימים בנדל״ן? עדן מלכה, משרד עורכי דין בהרצליה, מציע ליווי אישי ואמין לעסקאות נכסים. פנו עוד היום לייעוץ ראשוני שיבטיח את הזכויות שלכם.
+
+### שירותים
+https://-11ea36f8.zappy5.app/services
+משירותים משפטיים חינמיים לבכירים ועד ליווי קהילתי, גלו את חבילות הנדל״ן המותאמות של עדן מלכה. נלחמים על האינטרסים שלכם בכל עסקה. התקשרו להצעת מחיר משתלמת!
+
+### אודות
+https://-11ea36f8.zappy5.app/about
+משרד עורכי דין בהרצליה עם ניסיון עשיר בדיני מקרקעין. אנו מספקים שירותים משפטיים קהילתיים ויחס אישי המבוסס על אמון ומקצועיות. הצטרפו ללקוחות שסומכים עלינו בנדל״ן!
+
+### צור קשר
+https://-11ea36f8.zappy5.app/contact
+צריכים שירותים משפטיים חינמיים לבכירים או ליווי בקניית דירה? צרו קשר עם עדן מלכה בהרצליה לתיאום שיחת הכוונה. הקליקו למילוי פרטים ונדאג לכם לפתרון המהיר ביותר!
+
+### תודה רבה - פנייתך התקבלה | עדן מלכה משרד עורכי דין
+https://-11ea36f8.zappy5.app/thank-you
+תודה שפנית לעדן מלכה משרד עורכי דין. פנייתך התקבלה בהצלחה ונחזור אליך בהקדם. אנו מספקים שירותים משפטיים מקיפים.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-11ea36f8.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-11ea36f8.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-11ea36f8.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-11ea36f8.zappy5.app/contact
+- Endpoint: https://-11ea36f8.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel, required)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About עדן מלכה משרד עורכי דין
+A law firm based in Herzliya, Israel, specializing in real estate law. The practice focuses on property-related legal matters, serving clients in the Herzliya area and potentially the broader central Israel region. The brand carries a professional, trustworthy, and authoritative tone typical of legal services.
+
+## Services/Products
+- דיני מקרקעין
+
+## Target Audience
+- משקיעי נדל"ן
+- רוכשי דירות ראשונים
+- יזמי בנייה
+- בעלי נכסים מסחריים
+
+## Industry
+Legal Services
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-11ea36f8.zappy5.app/sitemap.xml
+- Robots: https://-11ea36f8.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-11ea36f8.zappy5.app/llms-full.txt
